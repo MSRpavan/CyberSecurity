@@ -27,11 +27,6 @@ SQL Injection (SQLi) is one of the most common vulnerabilities in web applicatio
      - Hardcoded credentials in the source code.
      - Improper error handling that may expose sensitive information.
 
-### Technology Stack:
-- **Backend**: Python, MySQL
-- **Database**: MySQL
-- **Detection Script**: Python (with Regular Expressions for vulnerability detection)
-
 ### How to Run:
 
 1. **Run the Vulnerable Backend**:
@@ -45,4 +40,16 @@ SQL Injection (SQLi) is one of the most common vulnerabilities in web applicatio
      ```bash
      python3 DetectMultipleVulnerabilities.py
      ```
+## Contributing
+Contributions are welcome! If you have ideas for improving existing projects or want to add new ones, feel free to fork the repository and submit a pull request.
+
+Please ensure that your code follows the project's style guidelines and is well-documented.
+
+## License
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+If you have any questions, feel free to reach out:
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sitha-ram-pavan-meda-894a18294/)
+- **GitHub**: [GitHub](https://github.com/MSRpavan)
 
