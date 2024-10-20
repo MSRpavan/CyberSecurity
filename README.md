@@ -46,10 +46,3 @@ SQL Injection (SQLi) is one of the most common vulnerabilities in web applicatio
      python3 DetectMultipleVulnerabilities.py
      ```
 
-### Project Structure:
-
-```bash
-.
-├── VulnerableBackend.py             # Simulated backend with SQL injection vulnerability
-├── DetectMultipleVulnerabilities.py # Python script to detect vulnerabilities
-└── README.md                        # Project documentation
